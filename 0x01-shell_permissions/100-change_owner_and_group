@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff /home/vincent
+chown -R vincent:staff /vincent/staff
